@@ -1,3 +1,3 @@
 
 - [x] [OushuDb Magma Checkpoint Tool]
-- [x] [Oushu Magma Show Version Tool]
+- [x] [OushuDb Magma Show Version Tool]
