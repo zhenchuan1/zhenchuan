@@ -1,4 +1,1 @@
-
-- [x] [OushuDb Magma Manual Checkpoint Tool]
-- [x] [OushuDb Magma Show Version Tool]
-- [x] [OushuDb Master Oid]
+[简单的事做好] [稳定] [高效]
